@@ -6,6 +6,8 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Yash-1305yg&show_icons=true)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-1305yg&theme=blue-green)
+
 <!---
 Yash-1305yg/Yash-1305yg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
