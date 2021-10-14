@@ -8,6 +8,13 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-1305yg&theme=blue-green)
 
+![GitHub Contributors Image](https://contrib.rocks/image?repo=Yash-1305yg/Your_GitHub_Repository_Name)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=Yash-1305yg)
+
+
 <!---
 Yash-1305yg/Yash-1305yg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
