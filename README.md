@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on JAVA and Python projects.
 - 📫 How to reach me -- Mail me at  -- yashgupta1305.yg@gmail.com .
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Yash-1305yg&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Yash-1305yg&show_icons=false)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-1305yg&theme=blue-red)
 
