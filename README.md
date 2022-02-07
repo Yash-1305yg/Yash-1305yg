@@ -6,7 +6,7 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Yash-1305yg&show_icons=true)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-1305yg&theme=blue-red)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-1305yg&theme=yellow-red)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
